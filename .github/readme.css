@@ -1,26 +1,9 @@
-.social-network {
-  user-select: none;
-  margin: 10px 0;
-}
-.social-network .social-network__icon img {
-  width: 30px;
-  height: 30px;
-}
-.social-network .social-network__icon {
-  color: rgb(233, 111, 148);
-  text-decoration: none;
-  display: inline-flex;
-  margin: 5px 0;
-  padding: 7px 15px;
-  border-radius: 10px;
-}
+
 .social-network .social-network__icon:hover {
   background-color: rgba(0, 0, 0, 0.1);
 }
 .social-network .social-network__icon .social-network__more {
-  align-items: center;
-  display: flex;
-  margin-left: 10px;
+  
 }
 .social-network .social-network__icon .social-network__more span {
   font-size: 9px;
