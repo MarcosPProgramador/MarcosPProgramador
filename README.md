@@ -8,12 +8,12 @@
 </p>
 <table>
 <tr>
-<td>
+<td border="0">
 
 ![Most User Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosPProgramador&theme=dracula)
 
 </td>
-<td>
+<td border="0">
 
 ![GitHub Stats](./.github/loading.gif)
 
