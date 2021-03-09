@@ -28,3 +28,19 @@
 [![Facebook](./.github/facebook.svg)](https://www.facebook.com/marcos.proenca.186/)
 
 </div>
+  <table class="q-table responsive bordered cell-separator full-width mt-10">
+                <thead>
+                <tr class="header bg-grey-3">
+                    <th data-th="Product Code" class="text-left">Product Code</th>
+                    <th data-th="Product Name" class="text-left">Product Name</th>
+                    <th data-th="Quantity" class="text-left">Quantity</th>
+                </tr>
+                </thead>
+                <tbody>
+                </tbody>
+                <tr>
+                    <td>Test</td>
+                    <td>Test</td>
+                    <td>Test</td>
+                </tr>
+            </table>
