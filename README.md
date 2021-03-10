@@ -2,7 +2,7 @@
 
 ![header](./.github/header.png)
 
-## Networking
+## Social networks
 
 [![LinkedIn](./.github/linkedin.png)](https://www.linkedin.com/in/marcos-proença-5820101b1/) [![Facebo4ok](./.github/facebook.png)](https://www.facebook.com/marcos.proenca.186/) [![Gmail](./.github/gmail.png)](mailto:marcosproenca144@gmail.com)
 
