@@ -1,6 +1,6 @@
 # MarcosPProgramador
 
-![header](./.github/header.svg)
+![header](./.github/header.png)
 
 ## Social networks
 
@@ -11,7 +11,11 @@
 ## Technologies
 
 ![Technologies](./.github/technologies.png)
+<<<<<<< HEAD
+### Tools 
+=======
 ## Tools 
+>>>>>>> 43890bfcef4787cb887c85fce92d479706473fcb
 
 ![Tools](./.github/tools.png)
 # GitHub
