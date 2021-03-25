@@ -1,4 +1,4 @@
-# MarcosPProgramador
+# Hi! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/>
 
 ![header](./.github/header.png)
 
@@ -18,4 +18,4 @@
 
 # GitHub
 
-![Most User Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosPProgramador&theme=dracula) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcosPProgramador&show_icons=true&theme=dracula)
+![Most User Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosPProgramador&theme=dracula)
